@@ -1,0 +1,25 @@
+.img{
+height: 200px;
+width: 200px;
+border-radius: 50%;display: block;
+margin: 0%;
+}
+.texto{
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     color: rgb(145, 13, 145);
+}
+h1{
+color: plum;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.cor{
+    color: plum;
+}
+h2{
+    color: plum;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3{
+    color:plum;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
